@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o [Seu Nome]! 👋
 
-<!--
-**felipehnr00/felipehnr00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Ciência da Computação no UniCEUB** (1º Semestre) e aspirante a **Desenvolvedor Backend**. Gosto de entender como as engrenagens dos sistemas funcionam por trás da interface.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🔭 O que estou fazendo agora:
+- 🎓 Cursando o 1º semestre de CC no UniCEUB.
+- ☕ Aprofundando em **Lógica de Programação com Java**.
+- 🏗️ Construindo meus primeiros projetos de portfólio aqui no GitHub.
+- 🎯 Focado em aprender Bancos de Dados e Arquitetura de Sistemas.
+
+### 📫 Como me encontrar:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https//www.linkedin.com/in/felipehonorio00)
