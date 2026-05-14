@@ -1,22 +1,37 @@
-# Olá, eu sou o Felipe Honorio! 👋
+# 👋 Olá! Eu sou Felipe Honório
 
-Estudante de **Ciência da Computação no UniCEUB** (1º Semestre) e aspirante a **Desenvolvedor Backend**. Gosto de entender como as engrenagens dos sistemas funcionam por trás da interface.
+🎓 Estudante de Ciência da Computação no UniCEUB
+📊 Focado em Análise de Dados, SQL, Python e Automação
+💻 Experiência prática com Java, lógica de programação e bancos de dados
+📍 Brasília - DF
 
----
+## 🚀 Tecnologias e Ferramentas
 
-### 🛠️ Tecnologias e Ferramentas
+* SQL
+* Python
+* Java
+* Excel Avançado
+* Power BI (Básico)
+* Git & GitHub
+* Microsoft Azure AI
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## 📚 Atualmente estudando
 
----
+* Análise e tratamento de dados
+* Automação de processos
+* SQL avançado e modelagem de dados
+* Python para dados
+* Power BI
+* Estruturas de dados e lógica de programação
 
-### 🔭 O que estou fazendo agora:
-- 🎓 Cursando o 1º semestre de CC no UniCEUB.
-- ☕ Aprofundando em **Lógica de Programação com Java**.
-- 🏗️ Construindo meus primeiros projetos de portfólio aqui no GitHub.
-- 🎯 Focado em aprender Bancos de Dados e Arquitetura de Sistemas.
+## 🛠 Projetos em destaque
 
-### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https//www.linkedin.com/in/felipehonorio00)
+🔹 Exercícios e projetos em Java (POO e lógica)
+🔹 Consultas SQL e manipulação de bancos de dados
+🔹 Automações e scripts em Python
+🔹 Projetos acadêmicos voltados para tecnologia e dados
+
+## 📫 Contato
+
+* LinkedIn: [linkedin.com/in/felipehonorio00/](https://www.linkedin.com/in/felipehonorio00/))
+* Email: [felipehonorio734@gmail.com](mailto:felipehonorio734@gmail.com)
