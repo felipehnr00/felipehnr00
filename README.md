@@ -34,4 +34,4 @@
 ## 📫 Contato
 
 * LinkedIn: [linkedin.com/in/felipehonorio00/](https://www.linkedin.com/in/felipehonorio00/))
-* Email: [felipehonorio734@gmail.com](mailto:felipehonorio734@gmail.com)
+* Email: [felipehonorio734@gmail.com](mailto:felipehonorio734@gmail.com))
