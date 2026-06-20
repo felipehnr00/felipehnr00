@@ -77,13 +77,6 @@ class FelipeHonorio:
 
 ---
 
-### 🏥 SensusTriagem
-Projeto desenvolvido em **Java** e **Azure AI** voltado à organização e classificação de informações hospitalares, aplicando lógica de programação orientada a objetos junto a serviços de inteligência artificial.
-
-`Java` `Azure AI`
-
----
-
 ### 🛒 Amazon Sales Dashboard
 Projeto de análise de dados utilizando **Power BI**, **SQL** e **Power Query** para criação de dashboards e KPIs de vendas, com foco em modelagem e visualização de dados comerciais.
 
@@ -91,10 +84,10 @@ Projeto de análise de dados utilizando **Power BI**, **SQL** e **Power Query** 
 
 ---
 
-### 🧮 SQL Practice
-Repositório com exercícios práticos de **SQL**, incluindo consultas, JOINs, agrupamentos e manipulação de dados — base de treino contínuo das minhas habilidades em bancos de dados relacionais.
+### 🏥 SensusTriagem
+Projeto desenvolvido em **Java** e **Azure AI** voltado à organização e classificação de informações hospitalares, aplicando lógica de programação orientada a objetos junto a serviços de inteligência artificial.
 
-`SQL`
+`Java` `Azure AI`
 
 ---
 
@@ -115,8 +108,8 @@ Aberto a oportunidades de **estágio** ou **projetos práticos** que me permitam
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=felipehonorio00&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipehonorio00&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=felipehnr00&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipehnr00&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
